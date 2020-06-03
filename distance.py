@@ -32,8 +32,6 @@ def Distance():
     #CM:
     distance = sig_time / 0.000058
     return distance
-
-d=0
 while 1:
 
     distance=Distance()
